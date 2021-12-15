@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\ConsoleApp1\static\obj\Debug\netcoreapp3.1\static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp1\static\obj\Debug\netcoreapp3.1\static.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp1\static\obj\Debug\netcoreapp3.1\static.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp1\static\obj\Debug\netcoreapp3.1\static.csproj.CoreCompileInputs.cache
