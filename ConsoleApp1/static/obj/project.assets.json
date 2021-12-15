@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\ConsoleApp1\\static\\static11.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\math2653\\ConsoleApp1\\static\\static11.csproj",
       "projectName": "static11",
-      "projectPath": "C:\\Users\\User\\source\\repos\\ConsoleApp1\\static\\static11.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\math2653\\ConsoleApp1\\static\\static11.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\ConsoleApp1\\static\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\math2653\\ConsoleApp1\\static\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

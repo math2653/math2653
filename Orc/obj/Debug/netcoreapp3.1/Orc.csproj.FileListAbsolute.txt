@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Orc\Orc\bin\Debug\netcoreapp3.1\Orc.exe
+C:\Users\User\source\repos\Orc\Orc\bin\Debug\netcoreapp3.1\Orc.deps.json
+C:\Users\User\source\repos\Orc\Orc\bin\Debug\netcoreapp3.1\Orc.runtimeconfig.json
+C:\Users\User\source\repos\Orc\Orc\bin\Debug\netcoreapp3.1\Orc.runtimeconfig.dev.json
+C:\Users\User\source\repos\Orc\Orc\bin\Debug\netcoreapp3.1\Orc.dll
+C:\Users\User\source\repos\Orc\Orc\bin\Debug\netcoreapp3.1\Orc.pdb
+C:\Users\User\source\repos\Orc\Orc\obj\Debug\netcoreapp3.1\Orc.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Orc\Orc\obj\Debug\netcoreapp3.1\Orc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Orc\Orc\obj\Debug\netcoreapp3.1\Orc.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Orc\Orc\obj\Debug\netcoreapp3.1\Orc.AssemblyInfo.cs
+C:\Users\User\source\repos\Orc\Orc\obj\Debug\netcoreapp3.1\Orc.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Orc\Orc\obj\Debug\netcoreapp3.1\Orc.dll
+C:\Users\User\source\repos\Orc\Orc\obj\Debug\netcoreapp3.1\Orc.pdb
+C:\Users\User\source\repos\Orc\Orc\obj\Debug\netcoreapp3.1\Orc.genruntimeconfig.cache
